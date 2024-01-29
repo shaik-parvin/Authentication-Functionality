@@ -1,0 +1,13 @@
+/* Write your CSS code here */
+.header {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  padding: 0px;
+  width: 100vw;
+  list-style-type: none;
+}
+
+li {
+  margin-right: 10px;
+}
